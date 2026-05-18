@@ -2,6 +2,15 @@
 
 **Arduino Nano-based Smart Animal Detector System**
 
+![Demo](demo.png)
+
+---
+
+## Get the Project
+
+Want to support the project or get the complete package?<br>
+➡️ [Purchase on Payhip](https://payhip.com/Iotproject)
+
 ---
 
 ## Circuit Connections
