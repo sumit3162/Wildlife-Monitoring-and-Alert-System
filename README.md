@@ -5,6 +5,11 @@
 ![img](img.png)
 
 ---
+## Circuit Diagram
+
+![Circuit Diagram](img2.jpeg)
+
+---
 
 ## Get the Project
 
