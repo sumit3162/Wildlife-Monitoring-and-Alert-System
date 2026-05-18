@@ -4,10 +4,14 @@
 
 ![img](img.png)
 
----
-## Circuit Diagram
 
-![Circuit Diagram](img2.jpeg)
+---
+
+## Demo Video
+
+[![Watch the Demo Video](https://img.youtube.com/vi/Aws9VVFuRyI/hqdefault.jpg)](https://youtube.com/shorts/Aws9VVFuRyI?si=V7WdtzoC7ly55wIl)
+<br>
+▶️ [Watch on YouTube Shorts](https://youtube.com/shorts/Aws9VVFuRyI?si=V7WdtzoC7ly55wIl)
 
 ---
 
