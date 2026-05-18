@@ -2,7 +2,7 @@
 
 **Arduino Nano-based Smart Animal Detector System**
 
-![Demo](demo.png)
+![img](img.png)
 
 ---
 
